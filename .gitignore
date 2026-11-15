@@ -1,0 +1,17 @@
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# OpenROAD temporary databases and reports
+*.odb.tmp
+*.def.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db

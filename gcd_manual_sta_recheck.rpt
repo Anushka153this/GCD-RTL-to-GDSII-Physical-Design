@@ -1,0 +1,15 @@
+GCD MANUAL FLOW - TIMING ANALYSIS
+Clock period: 1.00 ns
+
+SETUP TIMING
+Worst setup slack: +0.15 ns (MET)
+
+HOLD TIMING
+Worst hold slack: +0.09 ns (MET)
+
+CRITICAL SETUP PATH
+Startpoint: _526_
+Endpoint: resp_msg[15]
+Data arrival time: 0.65 ns
+Data required time: 0.80 ns
+Slack: +0.15 ns (MET)
